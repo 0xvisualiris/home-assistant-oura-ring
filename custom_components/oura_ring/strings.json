@@ -1,1 +1,21 @@
-
+{
+  "title": "Oura Ring Integration",
+  "step": {
+    "user": {
+      "title": "Oura Ring Setup",
+      "description": "Enter your Oura API token to connect.",
+      "data": {
+        "access_token": "Oura API Token"
+      }
+    }
+  },
+  "error": {
+    "invalid_token": "Invalid Oura API token"
+  },
+  "options": {
+    "init": {
+      "title": "Adjust Oura Ring Settings",
+      "description": "Modify the settings of the integration."
+    }
+  }
+}
