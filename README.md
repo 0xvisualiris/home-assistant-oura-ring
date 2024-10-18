@@ -1,6 +1,6 @@
 # Oura Ring Integration for Home Assistant
 
-![Oura Ring](https://example.com/path/to/your/logo.png)
+![Oura Ring](https://play-lh.googleusercontent.com/9Pt4GiNIygQwkcvCb3D_QcN7PprMb15_CLVrSJcj9u0YPU5nGOHIt_ldEQKOKKGW_OE)
 
 A custom integration for Home Assistant to display and track your Oura Ring data, including sleep score, activity score, readiness score, daily stress, and sleep time.
 
